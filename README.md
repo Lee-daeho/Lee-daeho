@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 
 
 
-![Lotto Power](https://github-readme-stats.vercel.app/api?username=ChaejinE&theme=dark&show_icons=true)
+![Lotto Power](https://github-readme-stats.vercel.app/api?username=Lee-daeho&theme=dark&show_icons=true)
 
 [my blog ](https://codestudyisdiff.tistory.com/)
